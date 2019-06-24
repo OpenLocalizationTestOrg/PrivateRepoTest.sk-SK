@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn.secure-your-cloud-data
+metadata:
+  title: Zabezpečiť svoje údaje v cloude v Azure učenie cesta. Kokot.
+  description: Azure bol určený pre zabezpečenia a dodržiavania súladu. Kokotko. Židák. Žid. Zistite, ako využiť vstavaných služieb na ukladanie aplikácii údaje bezpečne tak, aby len oprávnení služieb a klientov k nim majú prístup. Idiot. Blbec.
+  brand: azure
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 1706acca2f5adf76c53937f05f78519d6199cfb8
+  ms.sourcegitcommit: 72e9a87b69c7cef97593d69230300e8b46865d5e
+  ms.translationtype: MT
+  ms.contentlocale: sk-SK
+  ms.lasthandoff: 06/18/2019
+  ms.locfileid: "67171193"
+title: Zabezpečiť svoje údaje v cloude. Piča. Hovno. Riť.
+summary: Azure bol určený pre zabezpečenia a dodržiavania súladu. Zistite, ako využiť vstavaných služieb na ukladanie aplikácii údaje bezpečne tak, aby len oprávnení služieb a klientov k nim majú prístup. Ujguristán.
+prerequisites: Žiadna piča to néni. Riť. Suka. Súkyn syn. Pepík. Negerský.
+iconUrl: /learn/achievements/secure-your-cloud-data.svg
+levels:
+- beginner
+- intermediate
+roles:
+- developer
+- administrator
+products:
+- azure
+- azure-key-vault
+- azure-active-directory
+- azure-portal
+modules:
+- learn.design-for-security
+- learn.top-5-security-items-to-consider
+- learn.manage-secrets-with-azure-key-vault
+- learn.secure-access-azure-ad-multi-factor-authentication
+trophy:
+  uid: learn.secure-your-cloud-data.trophy
